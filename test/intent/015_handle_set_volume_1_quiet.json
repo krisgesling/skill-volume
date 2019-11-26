@@ -1,0 +1,5 @@
+{
+	"utterance": "set volume to quiet",
+	"intent_type": "SetVolume",
+	"expected_dialog": "set.volume"
+}

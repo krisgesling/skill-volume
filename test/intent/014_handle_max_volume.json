@@ -1,0 +1,5 @@
+{
+	"utterance": "crank the audio",
+	"intent_type": "MaxVolume",
+	"expected_dialog": "max.volume"
+}

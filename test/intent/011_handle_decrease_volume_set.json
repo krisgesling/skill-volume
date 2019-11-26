@@ -1,0 +1,4 @@
+{
+	"utterance": "turn the volume down",
+	"intent_type": "DecreaseVolumeSet"
+}

@@ -1,0 +1,5 @@
+{
+	"utterance": "mute volume",
+	"intent_type": "MuteVolume",
+	"expected_dialog": "mute.volume"
+}

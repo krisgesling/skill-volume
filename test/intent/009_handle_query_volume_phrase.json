@@ -1,0 +1,5 @@
+{
+	"utterance": "how loud is the volume",
+	"intent_type": "QueryVolumePhrase",
+	"expected_dialog": "volume.is"
+}

@@ -1,0 +1,5 @@
+{
+	"utterance": "default volume",
+	"intent_type": "UnmuteVolume",
+	"expected_dialog": "reset.volume"
+}

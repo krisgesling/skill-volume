@@ -1,0 +1,5 @@
+{
+	"utterance": "boost volume",
+	"intent_type": "IncreaseVolume",
+	"expected_dialog": "already.max.volume"
+}

@@ -1,0 +1,5 @@
+{
+	"utterance": "increase volume to 90%",
+	"intent_type": "SetVolumePercent",
+	"expected_dialog": "set.volume.percent"
+}
